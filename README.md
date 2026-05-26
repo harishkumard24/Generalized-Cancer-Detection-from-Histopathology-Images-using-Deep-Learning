@@ -1,2 +1,2 @@
 # Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning
-Cross-domain cancer detection from histopathology images using Vision Transformers (ViT-B/16) and Domain Adversarial Neural Networks (DANN).
+End-to-end deep learning pipeline for generalized cancer detection from histopathology images, featuring automated data cleaning and preprocessing, ConvNeXt-Tiny and Vision Transformer (ViT-B/16) architectures, domain adversarial training (DANN), comprehensive evaluation, and cross-dataset generalization for robust medical image classification.
